@@ -1,0 +1,33 @@
+<section class="products">
+
+    <h1 class="heading"> products <span>Details</span> </h1>
+
+    <div class="box-container">
+
+        <div class="box" *ngFor="let img of productsData" >
+            <!-- <div class="image1">
+                <img src="../assets/image/product-1.jpg" class="main-img" alt="">
+            </div> -->
+            <div class="content">
+                <h3>{{img.name}}</h3>
+                <!-- <div class="price">{{img.imgurl}}</div> -->
+                <img [src]="img.imgurl" class="main-img" alt="">
+            </div>
+        </div>
+    </div>
+
+
+
+</section> 
+
+<section class="shopping-cart">
+
+
+<div class="cart-total" style="text-align:center;">
+    <h3> product name : <span>mobile</span> </h3>
+    <h3> description : <span>smartphone</span> </h3>
+    <h3> sub total : <span>$1400.00</span> </h3>
+    <a routerLink="/cart" class="btn">Add to cart</a>
+</div>
+
+</section>

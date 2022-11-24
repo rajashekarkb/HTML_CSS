@@ -1,0 +1,144 @@
+<section class="category">
+
+    <h1 class="heading"> shop by <span>category</span> </h1>
+
+    <div class="box-container">
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img1.png" alt="">
+            <h3>televisions</h3>
+        </a>
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img2.png" alt="">
+            <h3>smartphones</h3>
+        </a>
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img3.png" alt="">
+            <h3>headphones</h3>
+        </a>
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img4.png" alt="">
+            <h3>smartwatches</h3>
+        </a>
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img5.png" alt="">
+            <h3>games</h3>
+        </a>
+
+        <a href="#" class="box">
+            <img src="../assets/image/cat_img6.png" alt="">
+            <h3>camera</h3>
+        </a>
+
+    </div>
+
+</section>
+<section class="arrivals">
+
+    <h1 class="heading"> All <span>Products</span> </h1>
+
+    <div class="box-container">
+
+        <div class="box" *ngFor="let product of productDetails,">
+            <div class="image">
+                <img [src]="product.imgurl" alt="">
+            </div>
+            <div class="content">
+                <h3>{{product.name}}</h3>
+                <div class="price"> ${{product.price}}</div>
+                <a (click)="productInfo(product.id)" class="btn">View Product</a>
+            </div>
+        </div>
+
+        <!-- <div class="box" routerLink="/details">
+            <div class="image">
+                <img src="../assets/image/arrival-2.jpg" alt="">
+                        </div>
+            <div class="content">
+                <h3>lenovo laptop</h3>
+                <div class="price"> $249.99 <span>$399.99</span> </div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="box" routerLink="/details">
+            <div class="image">
+                <img src="../assets/image/arrival-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>new smartphone</h3>
+                <div class="price"> $249.99 <span>$399.99</span> </div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="box" routerLink="/details">
+            <div class="image">
+                <img src="../assets/image/arrival-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>new printer</h3>
+                <div class="price"> $249.99 <span>$399.99</span> </div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="box" routerLink="/details">
+            <div class="image">
+                <img src="../assets/image/arrival-5.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>new headphones</h3>
+                <div class="price"> $249.99 <span>$399.99</span> </div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="box" routerLink="/details">
+            <div class="image">
+                <img src="../assets/image/arrival-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>new speakers</h3>
+                <div class="price"> $249.99 <span>$399.99</span> </div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div> -->
+
+    </div>
+
+</section>
