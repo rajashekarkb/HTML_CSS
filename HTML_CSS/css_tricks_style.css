@@ -1,0 +1,110 @@
+/* backround effects */
+
+/* body{
+    background-image: url(../HTML_CSS/images/building-scaled.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(0, 255, 200);
+    background-blend-mode: screen;
+} */
+
+body{
+    overflow: hidden;
+}
+
+/* background clipping */
+body > #bg{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    /* clip-path: polygon(38% 11%, 75% 0%, 100% 50%, 100% 16%, 0 88%, 0 11%); */
+    clip-path: polygon(8% 20%, 100% 100%, 22% 9%, 79% 9%, 0 100%, 91% 22%, 91% 79%, 0 0, 76% 88%, 23% 89%, 100% 1%, 9% 77%);
+    position: absolute;
+    z-index: -1;
+}
+
+
+/* animations */
+/* @keyframes blink {
+    0%{
+        background: violet;
+    }
+    15%{
+        background: indigo;
+    }
+    30%{
+        background: blue;
+    }
+    42%{
+        background: green;
+    }
+    58%{
+        background: yellow;
+    }
+    70%{
+        background: orange;
+    }
+    85%{
+        background: red;
+    }
+    100%{
+        background: violet;
+    }
+}
+
+@-webkit-keyframes blink {
+    0%{
+        background: violet;
+    }
+    15%{
+        background: indigo;
+    }
+    30%{
+        background: blue;
+    }
+    42%{
+        background: green;
+    }
+    58%{
+        background: yellow;
+    }
+    70%{
+        background: orange;
+    }
+    85%{
+        background: red;
+    }
+    100%{
+        background: violet;
+    }
+}
+
+div{
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    animation: blink 10s infinite;
+    -webkit-animation: blink 10s infinite;
+} */
+
+/* for font google family */
+/* body{
+    font-family: 'Chivo Mono', monospace;
+font-family: 'Josefin Sans', sans-serif;
+} */
+
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    /* background-color: aqua;
+    background:radial-gradient(
+        circle,
+        rgba(70,184,167,1) 0%,
+        rgba(55,80,219,1) 100%
+
+    ) */
+    /* background: rgb(34,193,195); */
+    background: linear-gradient(186deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
