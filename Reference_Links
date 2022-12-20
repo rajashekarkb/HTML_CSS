@@ -1,0 +1,740 @@
+Reference Links:
+
+//For angular interview...
+ https://www.interviewbit.com/angular-interview-questions/
+ 
+ //For c# interview..
+ https://www.interviewbit.com/c-sharp-interview-questions/
+ 
+ 
+//For angular preparation docs..
+https://www.tektutorialshub.com/angular-tutorial/
+//For eventemitter concept:   https://www.tektutorialshub.com/angular/angular-input-output-eventemitter/
+
+https://jasonwatmore.com/post/2018/10/29/angular-7-user-registration-and-login-example-tutorial
+https://galdin.dev/blog/getting-started-with-identity-in-asp-net-core/
+https://www.codeproject.com/Articles/1218427/Getting-Started-with-Entity-Framework-Core-Buildin
+https://www.c-sharpcorner.com/UploadFile/2b481f/exception-handling-in-Asp-Net-web-api/
+https://jasonwatmore.com/post/2019/06/10/angular-8-user-registration-and-login-example-tutorial
+https://stackblitz.com/edit/angular-6-registration-login-example?file=app%2Fapp.module.ts
+https://thinkster.io/tutorials/building-real-world-angular-2-apps/authentication-forms
+https://stackoverflow.com/questions/42502449/generate-a-routing-module-while-creating-a-module-in-angular-cli
+https://www.intertech.com/Blog/angular-router-tutorial-setting-up-routing-in-your-application/
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-3.0
+https://docs.microsoft.com/en-us/aspnet/identity/overview/features-api/account-confirmation-and-password-recovery-with-aspnet-identity
+https://bitoftech.net/2015/03/11/asp-net-identity-2-1-roles-based-authorization-authentication-asp-net-web-api/
+https://gooroo.io/GoorooTHINK/Article/17736/How-to-create-and-assign-roles-in-aspnet-mvc-5/32014#.XjuymDEzaUl
+https://stackoverflow.com/questions/19689183/add-user-to-role-asp-net-identity
+https://www.c-sharpcorner.com/article/assigning-role-to-user-in-Asp-Net-mvc-membership/
+https://social.technet.microsoft.com/wiki/contents/articles/51333.asp-net-core-2-0-getting-started-with-identity-and-role-management.aspx
+https://stackoverflow.com/questions/21734345/how-to-create-roles-and-add-users-to-roles-in-asp-net-mvc-web-api/23924845
+http://openlightgroup.com/Blog/TabId/58/PostId/189/UserRolesAdministration.aspx
+https://bitoftech.net/2015/03/31/asp-net-web-api-claims-authorization-with-asp-net-identity-2-1/
+https://devdactic.com/ionic-4-login-angular/
+https://medium.com/craft-academy/connecting-an-api-to-an-angular-4-front-end-application-e0fc9ea33202
+https://www.c-sharpcorner.com/article/create-registration-and-login-page-using-angular-7-and-web-api/
+https://embed.plnkr.co/plunk/B0BeCO
+https://github.com/marklaygo/aspCart
+https://hintdesk.com/2016/02/05/asp-net-web-api-identity-and-forgot-password/
+https://www.pluralsight.com/guides/configuring-asp-net-identity
+https://www.c-sharpcorner.com/article/asp-net-core-2-0-identity/
+https://www.codeproject.com/Articles/1210016/ASP-NET-Core-Identity
+https://github.com/TahirNaushad/Fiver.Security.AspIdentity/blob/master/Fiver.Security.AspIdentity/Models/Security/ResetPasswordViewModel.cs
+https://docs.microsoft.com/en-us/aspnet/identity/overview/features-api/two-factor-authentication-using-sms-and-email-with-aspnet-identity
+https://medium.com/@astamataris/setting-up-routing-in-a-multi-module-angular-4-app-using-the-router-module-d8e610196443
+https://gist.github.com/codediodeio/3e3b5f5c3a2144702d009fd8cd510dbd
+https://jasonwatmore.com/post/2019/06/14/angular-8-reactive-forms-validation-example
+https://jasonwatmore.com/post/2018/05/10/angular-6-reactive-forms-validation-example
+https://stackblitz.com/edit/angular-8-reactive-form-validation
+https://docs.microsoft.com/en-us/aspnet/identity/overview/features-api/two-factor-authentication-using-sms-and-email-with-aspnet-identity
+https://jasonwatmore.com/post/2019/05/22/angular-7-tutorial-part-5-registration-form-user-service
+https://stackoverflow.com/questions/49484288/username-already-exists-please-check-for-available-options-during-sign-up
+http://www.mukeshkumar.net/articles/web-api/token-based-authentication-in-web-api
+https://arjunphp.com/angular-2-async-validator-usernameemail-availability-check/
+https://medium.com/@cyrilletuzi/architecture-in-angular-projects-242606567e40
+https://www.quackit.com/html/templates/simple_website_templates.cfm
+https://startbootstrap.com/themes/sb-admin-2/
+https://stackoverflow.com/questions/53282395/angular-6-get-token-from-localstorage-after-refresh
+https://www.js-tutorials.com/javascript-tutorial/use-localstorage-sessionstorage-using-webstorage-angular4/
+https://stackoverflow.com/questions/55706311/angular-7-local-storage
+https://stackoverflow.com/questions/39840457/how-to-store-token-in-local-or-session-storage-in-angular-2
+https://medium.com/ramsatt/angular-7-crud-part-6-create-new-product-d26e59b48743
+https://mdbootstrap.com/plugins/jquery/e-commerce-components/
+https://www.w3schools.com/howto/howto_js_popup.asp
+https://jasonwatmore.com/post/2018/11/22/angular-7-role-based-authorization-tutorial-with-example
+https://docs.microsoft.com/en-us/aspnet/core/security/authorization/roles?view=aspnetcore-3.0
+https://www.codeproject.com/Questions/808785/Adding-user-to-role-upon-registration-mvc
+https://github.com/aspnet/DependencyInjection/issues/578
+https://www.jqwidgets.com/angular/angular-grid/
+https://stackoverflow.com/questions/39428132/custom-elements-schema-added-to-ngmodule-schemas-still-showing-error
+https://material.angular.io/components/autocomplete/overview
+http://www.binaryintellect.net/articles/5e180dfa-4438-45d8-ac78-c7cc11735791.aspx
+https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/querybuilder-predicate-reference.html
+https://www.dotnetexample.in/2015/05/dynamic-query-in-linq-using-predicate.html
+https://bootsnipp.com/snippets/2eNKz
+https://nehalist.io/uploading-files-in-angular2/
+https://stackoverflow.com/questions/39272970/angular-2-encode-image-to-base64/41637155
+https://stackoverflow.com/questions/53129002/converting-image-to-base64-string-in-typescript
+https://getbootstrap.com/docs/3.3/components/
+https://glyphicons.bootstrapcheatsheets.com/
+https://www.c-sharpcorner.com/article/import-excel-file-in-angular-7-using-web-api-and-sql-server/
+https://stackify.com/csharp-logging-best-practices/
+
+
+
+//More information about PasswordHasher here: https://www.blinkingcaret.com/2017/11/29/asp-net-identity-passwordhash/
+//For more details about Email Sender see https://go.microsoft.com/fwlink/?LinkID=532713
+
+
+https://stackoverflow.com/questions/40514986/how-to-customize-primeng-p-fileupload
+
+//For Alerts
+https://www.npmjs.com/package/ngx-toastr
+
+https://aspnetboilerplate.com/Pages/Documents/Background-Jobs-And-Workers
+
+//For charts
+
+https://mdbootstrap.com/docs/angular/advanced/charts/
+https://canvasjs.com/javascript-charts/stacked-column-chart/
+https://ej2.syncfusion.com/angular/demos/?_ga=2.142724149.1489338318.1582800720-556251072.1569566134#/material/chart/stacked-column
+https://www.syncfusion.com/angular-ui-components/angular-charts/chart-types/line-chart
+
+//Barchart lines (Mdb Charts):
+   -------------------------------------
+
+https://stackoverflow.com/questions/38593123/how-to-hide-y-axis-line-in-chartjs/42474001
+Ex:
+public chartOptions: any = {
+        responsive: true,
+        legend: {
+            position: 'bottom',
+            labels: {
+                fontSize: 10
+            }
+        },
+        scales: {
+            xAxes: [{
+                gridLines: {
+                    drawOnChartArea: false,
+                },
+                ticks: {
+                    fontSize: 10
+                },
+                stacked: true
+            }],
+            yAxes: [
+                {
+                  gridLines: {
+                        drawOnChartArea: false,
+                    },
+                 ticks: {
+                    fontSize: 10
+               	 },
+                    stacked: true
+                }
+            ]
+        }
+    };
+
+//For Forms add more button:
+  -------------------------------------
+https://www.c-sharpcorner.com/blogs/creating-form-controls-dynamically-in-angular-7-project
+
+//Stepper Model Sample:
+-------------------------------
+https://mdbootstrap.com/docs/react/components/stepper/
+
+//For removing the reference link and printing the sentence
+
+Eg: /Your Example String
+string s = "<a href=\'http://www.amazon.com/dp/0596528124/\' class=\'someclass\'>Mastering Regular Expressions</a>";
+
+//Matching the Inner Group between the <a> tags and accessing the value
+string inner = Regex.Match(s, @"<a [^>]*>(.*?)</a>").Groups[1].Value; //yields
+Sol:
+ "Mastering Regular Expressions"
+
+
+//For Getting the folders from server:
+-------------------------------------
+/// <summary>
+        /// For getting the folder path
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        [AllowAnonymous]
+        public async Task<List<string>> FolderPath([FromBody]PathRequest pathRequest)
+        {
+            List<string> data = new List<string>();
+            string filePath = "http://10.1.1.136:8080/"+ pathRequest.Path;
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(filePath);
+            using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+            {
+                using (StreamReader reader = new StreamReader(response.GetResponseStream()))
+                {
+                    string html = reader.ReadToEnd();
+
+                    Regex regex = new Regex(GetDirectoryListingRegexUrl(filePath));
+                    MatchCollection matches = regex.Matches(html);
+                    if (matches.Count > 0)
+                    {
+                        foreach (Match match in matches)
+                        {
+                            string inner = Regex.Match(match.ToString(), @"<a [^>]*>(.*?)</a>").Groups[1].Value;
+                            if (inner == "ecstatic")
+                            {
+                                continue;
+                            }
+                            else
+                            {
+                                Console.WriteLine(inner);
+                                data.Add(inner.ToString());
+                            }
+                        }
+                    }
+                }
+            }
+            return data;
+        }
+        public static string GetDirectoryListingRegexUrl(string filePath)
+        {
+            if (filePath!=null)
+            {
+                return "<a href=\".*\">(?<name>.*)</a>";
+            }
+            throw new NotSupportedException();
+        }
+
+//Converting folders Like FTP folders
+//how to create the new ftp server
+  https://www.windowscentral.com/how-set-and-manage-ftp-server-windows-10
+  https://helpdeskgeek.com/windows-10/install-and-setup-a-website-in-iis-on-windows-10/
+  https://support.sisense.com/hc/en-us/articles/360012412953-Install-Error-Service-W3SVC-W3SVC-failed-to-start
+  
+ //For converting our local path like http server path:
+ Ref Link:https://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http
+ 
+ Steps:
+ 1)open cmd prompt 
+ 2)Change directory path c to required drive eg: E:
+ 3)npm install http-server -g
+ 4)E: cd Folder name
+ 5)http-server
+ 
+ Video.js:
+ --------
+ https://helpdeskgeek.com/windows-10/install-and-setup-a-website-in-iis-on-windows-10/
+ https://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http
+ https://docs.videojs.com/tutorial-angular.html
+ https://blog.bitsrc.io/5-open-source-html5-video-players-for-2018-38fa85932afb
+ https://www.htmlgoodies.com/html5/javascript/build-an-html5-video-player.html
+ https://www.w3schools.com/tags/tag_video.asp
+ https://www.igniteui.com/video-player/bookmarks
+ https://www.w3schools.com/jsref/dom_obj_video.asp
+ https://www.endpoint.com/blog/2016/03/17/creating-video-player-with-time-markers
+ https://stackoverflow.com/questions/9323182/how-to-remove-the-last-word-in-the-string-using-javascript
+ https://www.geeksforgeeks.org/typescript-arrays/
+ 
+ abp references:
+ --------------
+ https://docs.abp.io/en/abp/latest/Object-Extensions
+ https://docs.abp.io/en/commercial/latest/guides/module-entity-extensions
+
+abp Identity Server dll source code:
+-----------------------------------
+https://github.com/abpframework/abp/blob/dev/modules/identity/src/Volo.Abp.Identity.Application/Volo/Abp/Identity/IdentityUserAppService.cs
+https://github.com/abpframework/abp/tree/dev/modules/identity
+
+StreamReader and Writer:
+-----------------------
+https://www.c-sharpcorner.com/UploadFile/ff0d0f/streamreader-and-streamwriter-in-C-Sharp-net/
+
+//For ABP UI extensions...
+https://docs.abp.io/en/abp/4.4/UI/AspNetCore/Entity-Action-Extensions
+
+//For Best practice css and html...
+https://devdocs.io/css/
+https://devdocs.io/html/
+
+//Pattern validation mobile : ^\+[1-9]{1}[0-9]{1,14}$
+
+//For image display instantly in screen...
+https://stackoverflow.com/questions/4459379/preview-an-image-before-it-is-uploaded
+
+//For Toster alert...
+https://stackoverflow.com/questions/56144336/ngx-toastr-globalconfig-timeout-settings
+
+//For Social Logins...
+https://code-maze.com/external-identity-provider-aspnet-core-identity/ --ref
+https://code-maze.com/how-to-sign-in-with-google-angular-aspnet-webapi/ --Importent
+https://www.npmjs.com/package/angularx-social-login --reference1
+https://libraries.io/npm/angularx-social-login --reference2
+
+
+//For External logins...
+https://stackoverflow.com/questions/59552223/flow-external-login-tokens-from-the-identity-server-to-the-client-app
+
+//For Token Exchange..
+https://docs.duendesoftware.com/identityserver/v5/tokens/extension_grants/token_exchange/
+
+//For calling appsettings data in services...
+https://stackoverflow.com/questions/31453495/how-to-read-appsettings-values-from-a-json-file-in-asp-net-core
+
+//For 2fa integration in angular...
+https://code-maze.com/2-step-verification-with-angular-and-aspnet-identity/
+https://www.twilio.com/blog/two-factor-authentication-angular-twilio-authy
+
+//For Generating the JWT Token..
+https://jasonwatmore.com/post/2021/06/02/net-5-create-and-validate-jwt-tokens-use-custom-jwt-middleware
+https://dotnetcoretutorials.com/2020/01/15/creating-and-validating-jwt-tokens-in-asp-net-core/
+
+//For id passing in urls and getting in constructor..
+https://codecraft.tv/courses/angular/routing/parameterised-routes/
+
+//For Multiple tables in single table... to get the data or delete the data [not for foreign key relation...]
+ try
+ {
+     IQueryable<Client> baseQuery = _dbContext.Clients
+      .Where(x => x.Id == id);
+
+     var clientdata = (await baseQuery.ToArrayAsync())
+         .SingleOrDefault(x => x.Id == id);
+
+     await baseQuery.Include(x => x.IdentityProviderRestrictions).Include(x => x.Claims).Include(x => x.RedirectUris)
+         .Include(x => x.PostLogoutRedirectUris).Include(x => x.AllowedCorsOrigins).Include(x => x.Properties)
+         .Include(x => x.AllowedScopes).Include(x => x.ClientSecrets).Include(x => x.AllowedGrantTypes)
+         .Include(x => x.RedirectUris).Include(x => x.PostLogoutRedirectUris).ToListAsync();
+
+     _dbContext.Clients.Remove(clientdata);
+     await _dbContext.SaveChangesAsync();
+ }
+ catch (Exception ex)
+ {
+
+     throw new Exception("Exception" + ex.Message);
+ }
+ 
+ 
+ //For join query sample...
+ var usercoinpaymentBids = from bids in _bidRepository.GetQueryableAsync().Result
+                                              where (bids.BidderId == request.BidderId)
+                                              join sales in repository.Result on bids.SaleId equals sales.Id
+                                              join nftMaster in _nFTMasterRepository.GetQueryableAsync().Result on sales.NFTMasterId equals nftMaster.Id
+                                              join bidPayments in _bidPaymentRepository.GetQueryableAsync().Result on bids.Id equals bidPayments.BidId
+                                              where (bidPayments.PaymentGateway == BidPayments.PaymentGateway.CoinPayment)
+                                              select new <DtoName>
+                                              {
+                                                  //Content what we need to add...
+                                              };
+ 
+ 
+ 
+ //For filtering and pageby, orderby list query sample...
+ var filteredList = totalUserBids.WhereIf(!string.IsNullOrWhiteSpace(filterText), e => e.UpdatedBy.Contains(filterText))
+                            .WhereIf(request.FilterStatus.HasValue, e => e.BiddingStatus == request.FilterStatus)
+                        .WhereIf(request.CreatedTimeMin.HasValue, e => e.CreatedTime >= request.CreatedTimeMin.Value)
+                        .WhereIf(request.CreatedTimeMax.HasValue, e => e.CreatedTime <= request.CreatedTimeMax.Value);
+                        filteredList = from bid in filteredList
+                                       orderby request.Sorting
+                                       ascending
+                                       select bid;
+                        filteredList = filteredList.Skip(request.SkipCount).Take(request.MaxResultCount);
+ 
+ 
+ //For reading the xml file and overwriting the xml file
+ XmlDocument doc = new XmlDocument();
+ doc.Load("star_ensurityzts-xsense-saml-idp-metadata.xml");
+ string text = doc.InnerXml;
+ var replacedContent = text.Replace("{0}", "document");
+ 
+ doc.InnerXml = replacedContent;
+ doc.Save("star_ensurityzts-xsense-saml-idp-metadata.xml");
+
+ //For pie diagram with javascript highcharts...
+ html: <div id = "idName"></div>
+ ////For Pie Chart Users device assigned and not assigned data...
+    //var pieColors = (function () {
+    //    var colors = [],
+    //        base = Highcharts.getOptions().colors[0],
+    //        i;
+
+    //    for (i = 0; i < 10; i += 1) {
+    //        // Start out with a darkened base color (negative brighten), and end
+    //        // up with a much brighter color
+    //        colors.push(Highcharts.color(base).brighten((i - 2) / 7).get());
+    //    }
+    //    return colors;
+    //}());
+    //// Build the chart
+
+    //var UsersSummary = function (res) {
+
+    //    Highcharts.chart('UsersSummary', {
+    //        chart: {
+    //            plotBackgroundColor: null,
+    //            plotBorderWidth: null,
+    //            plotShadow: false,
+    //            type: 'pie'
+    //        },
+    //        title: {
+    //            text: 'Users Summary',
+    //            style: {
+    //                fontWeight: 'bold',
+    //            },
+    //        },
+    //        tooltip: {
+    //            pointFormat: '{series.name}: {point.y}</b>',
+    //            style: {
+    //                fontWeight: 'bold',
+    //                fontSize: '15px',
+    //                textShadow: false,
+    //                textOutline: 'none'
+    //            }
+    //        },
+    //        accessibility: {
+    //            point: {
+    //                valueSuffix: '%'
+    //            }
+    //        },
+    //        plotOptions: {
+    //            shadow: false,
+    //            pie: {
+    //                size: '65%',
+    //                allowPointSelect: false,
+    //                cursor: 'pointer',
+    //                colors: pieColors,
+    //                dataLabels: {
+    //                    alignTo: 'toPlotEdges',
+    //                    color: 'black',
+    //                    style: {
+    //                        fontWeight: 'bold',
+    //                        fontSize: '12px',
+    //                        textShadow: false,
+    //                        textOutline: 'none'
+    //                    },
+    //                    enabled: true,
+    //                    format: '<b>{point.name}: </br></b>{point.y}',
+    //                    distance: 20,
+    //                    filter: {
+    //                        property: 'percentage',
+    //                        operator: '>',
+    //                        value: 4
+    //                    }
+    //                }
+    //            },
+    //            series: {
+    //                point: {
+    //                    events: {
+    //                        click: function () {
+    //                            var data = this.category;
+    //                            alert(data);
+    //                            switch (data) {
+    //                                case "Total Users":
+    //                                    window.location.href = "/Identity/Users";
+    //                                    break;
+    //                                case "Overall Supplied Devices":
+    //                                    window.location.href = "/Devices/Index";
+    //                                    break;
+    //                                case "Assigned Devices With Users":
+    //                                    window.location.href = "/Devices/Index?Assigned";
+    //                                    break;
+                                    
+    //                            }
+    //                        }
+    //                    }
+    //                }
+    //            }
+               
+    //        },
+    //        series: [{
+    //            name: 'Count',
+    //            colorByPoint: true,
+    //            data: [
+    //                { name: 'Total Users', y: res.totalUsers },
+    //                { name: 'Device Assigned Users', y: res.deviceAssignedUsers },
+    //                { name: 'Device Not </br>Assigned Users', y: res.deviceNotAssignedUsers },
+    //            ]
+    //        }]
+    //    });
+    //}
+    
+    //For Header , sidenav and Footer...
+    http://jsfiddle.net/coltrane/cxQGc/
+    
+    //For angular model popup...
+    https://www.agiratech.com/angular-typescript-modal-window
+    https://www.itsolutionstuff.com/post/angular-8-bootstrap-modal-popup-exampleexample.html
+    
+    https://stackoverflow.com/questions/50840914/submit-a-form-in-a-modal-using-ng-bootstrap
+    
+    
+    //form model popup and form validation...
+    
+    //.html file...
+    
+     <div class="modal-body">
+        <div class="container">
+            <form [formGroup]="setPinForm" (submit)="onSubmit()">
+              <div class="form-group">
+                <label for="name">New Pin</label>
+                <input type="number" formControlName="newPin" placeholder="Enter Pin" [ngClass]="{ 'is-invalid': submitting && f['newPin'].errors }"/>
+                <div *ngIf="f['newPin'].touched && f['newPin'].invalid" class="errormessage">
+                    <div *ngIf="f['newPin'].errors && f['newPin'].errors['required']">pin is required.</div>
+                    <div *ngIf="f['newPin'].errors && f['newPin'].errors['minlength']">pin should be min 4 numbers.</div>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="name">Confirm Pin</label>
+                <input type="number" formControlName="confirmPin" placeholder="Re-Enter Pin" [ngClass]="{ 'is-invalid': submitting && f['confirmPin'].errors }"/>
+                <div *ngIf="f['confirmPin'].touched && f['confirmPin'].invalid" class="errormessage">
+                    <div *ngIf="f['confirmPin'].errors && f['confirmPin'].errors['required']">confirm pin is required.</div>
+                    <div *ngIf="f['confirmPin'].errors &&  f['confirmPin'].errors['matching']">pin do not match</div>
+                </div>
+              </div>
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+          
+     </div>
+     <!-- <div class="modal-footer">
+        
+       <button type="button" class="btn btn-default" (click)="onCloseHandled()" >Close</button>
+     </div> -->
+   </div>
+    
+    //.ts file...
+      setPinForm: FormGroup;
+  public submitting: boolean = false;
+  display = 'none';
+  constructor(private modalService: NgbModal, private formBuilder: FormBuilder) {
+    this.setPinForm = formBuilder.group(
+      {
+        newPin: ['', [Validators.required]],
+        confirmPin: ['', [Validators.required]]
+      },
+      {
+        validators: [Validation.match('newPin', 'confirmPin')]
+      }
+    );
+  }
+  
+  ngOnInit(): void {
+
+  }
+get f() {
+  return this.setPinForm.controls;
+}
+  onSubmit() {
+    console.log(this.setPinForm.value);
+  }
+
+
+  onReset(): void {
+    this.submitting = false;
+    this.setPinForm.reset();
+  }
+
+  addFingerPrint() {
+
+  }
+
+
+  //For Model popup...
+  openModal() {
+    this.display = 'block';
+  }
+  onCloseHandled() {
+    this.display = 'none';
+  }
+
+// For accepting only numbers...
+https://stackoverflow.com/questions/41465542/angular2-input-field-to-accept-only-numbers
+
+//For sweat alert 2 info and success and warning alert...
+
+//To modify or migrate sweet alert 2...
+https://sweetalert2.github.io/
+https://github.com/sweetalert2/sweetalert2/wiki/Migration-from-SweetAlert-to-SweetAlert2
+
+//Empty swal...
+* Swal.fire({
+*   customClass: {
+*     container: '...',
+*     popup: '...',
+*     title: '...',
+*     closeButton: '...',
+*     icon: '...',
+*     image: '...',
+*     input: '...',
+*     inputLabel: '...',
+*     validationMessage: '...',
+*     actions: '...',
+*     confirmButton: '...',
+*     denyButton: '...',
+*     cancelButton: '...',
+*     loader: '...',
+*     footer: '...'
+*   }
+* })
+
+Swal.fire({
+        title: 'Progress'+ ' '+ dfh + '%',
+        color: 'red',
+        showClass: {
+          backdrop: 'swal2-noanimation', // disable backdrop animation
+          popup: '',                     // disable popup animation
+          icon: ''                       // disable icon animation
+        },
+        hideClass: {
+          popup: '',                     // disable popup fade-out animation
+       }
+        background: 'transparent',
+        allowOutsideClick: false,
+        showCancelButton: false,
+        cancelButtonColor: '#d33',
+        showConfirmButton: false
+      }).then(() => {
+       
+      });
+      
+//For delete confirm swal alert...
+
+Swal.fire({
+      title: 'Are you sure?',
+      text: "You want to delete Fingers",
+      icon: 'warning',
+      showCancelButton: true,
+      confirmButtonColor: '#3085d6',
+      cancelButtonColor: '#d33',
+      confirmButtonText: 'Yes, delete it!'
+    }).then((result) => {
+      if (result.isConfirmed) {
+        go.main.App.DeleteAllFingers().then((resp: any) => {
+          console.log(resp);
+          if (resp == true) {
+            Swal.fire(
+              'Deleted!',
+              'Fingers has been deleted.',
+              'success'
+            ).then(() => {
+                  location.reload();
+            });
+          }
+    
+        });
+        
+      }
+    });
+    
+//Object binding into key value pair...
+
+nftCreatorInfoObject:any = {};
+  nftCreatorInputData:any = [];
+  
+for (var type in this.nftCreatorInfoObject) {
+      var item = {key:'',value:''};
+      item.key = type;
+      item.value = this.nftCreatorInfoObject[type];
+      this.nftCreatorInputData.push(item);
+      }
+ 
+//For context menu actions...
+https://www.linkedin.com/pulse/angular-dynamic-context-menu-piyali-das/
+
+//For Component based reload...
+constructor(private _router: Router)
+
+reloadComponent() {
+    let currentUrl = this._router.url;
+    this._router.routeReuseStrategy.shouldReuseRoute = () => false;
+    this._router.onSameUrlNavigation = 'reload';
+    this._router.navigate([currentUrl]);
+  }
+  //(Test Method)
+  testMethod() 
+  {
+    this.reloadComponent(); (call this method where we want to reload the component)
+  }
+
+
+//Reference link for highchart line chart...
+https://stackoverflow.com/questions/36742977/categories-are-skipped-in-highcharts-on-xaxis
+
+//Abp widgets components invoking into another component...
+https://docs.abp.io/en/abp/2.0/AspNetCore/Widgets
+    
+    
+ //State management...
+ https://dzone.com/articles/angular-app-state-management-with-ngrx
+ https://www.htmlgoodies.com/javascript/angular-state-management-with-ngrx/
+ https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management
+ 
+ 
+ //For Downloading the file...
+ 
+ c# metnhod:
+ 
+ public virtual async Task<JsonResult> GetTenantLicencingInfo(Guid id)
+        {
+            //id = Guid.Parse("66D8881D-04A3-4A1E-B154-3A0725BAE826");
+            var tenantLicencingData = await _tenantTenantLicencingRepository.GetTenantExtraInfo(id);
+            var tenantName = TenantRepository.GetListAsync().Result.FirstOrDefault(x=>x.Id == tenantLicencingData.TenantId).Name;
+            var editionName = EditionRepository.GetListAsync().Result.FirstOrDefault(x => x.Id == tenantLicencingData.EditionId).DisplayName;
+            var jsonData = JsonSerializer.Serialize(new TenantLicencingRequiredInfo()
+            {
+                TenantId = tenantLicencingData.TenantId,
+                NumberOfUsers = tenantLicencingData.NumberOfUsers,
+                BillingTypes = tenantLicencingData.BillingTypes.ToString(),
+                LicenceActivationEndDate = tenantLicencingData.LicenceActivationEndDate,
+                CreationTime = tenantLicencingData.CreationTime,
+                EditionId = tenantLicencingData.EditionId,
+                TenantName = tenantName,
+                EditionName = editionName
+            });
+            var dataInBytes = Encoding.UTF8.GetBytes(jsonData);
+            var str = Encoding.Default.GetString(dataInBytes);
+
+            //Converting into file format...
+            string contentType = "application/json";
+            string fileName = "TenantInformation";
+            var fileData = new FileDataDto()
+            {
+                FileContent = dataInBytes,
+                FileContentType = contentType,
+                FileName = fileName,
+            };
+            return new JsonResult(fileData);
+            //throw new NotImplementedException();
+        }
+ 
+ .js file:
+ 
+ _tenantLicencingService.tenantLicencing.getTenantLicencingInfo(data.record.id)
+                                .then(function (resp) {
+                                    console.log(resp);
+                                    //Convert Base64 string to Byte Array.
+                                    var bytes = Base64ToBytes(resp.fileContent);
+                                    console.log("Bytes");
+                                    console.log(bytes);
+                                    //Convert Byte Array to BLOB.
+                                    var blob = new Blob([bytes], { type: resp.fileContentType });
+                                    console.log("Blob");
+                                    console.log(blob);
+                                    //Check the Browser type and download the File.
+                                    var isIE = false || !!document.documentMode;
+                                    if (isIE) {
+                                        window.navigator.msSaveBlob(blob, resp.fileName);
+                                    } else {
+                                        var url = window.URL || window.webkitURL;
+                                        link = url.createObjectURL(blob);
+                                        var a = $("<a />");
+                                        a.attr("download", resp.fileName);
+                                        a.attr("href", link);
+                                        $("body").append(a);
+                                        a[0].click();
+                                        $("body").remove(a);
+                                    }
+                                    //_dataTable.ajax.reload(null, false);
+                                    abp.notify.success(l('SuccessfullyDownloaded'));
+                                });
