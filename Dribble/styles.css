@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+    font-family:"Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow-x: hidden;
+    background: #fff;
+    color: #0d0c22;
+}
+
+nav.navbar.navbar-expand-lg.bg-light {
+    padding: 24px 20px;
+    background-color: #fff !important;
+    box-shadow: inset 0px -1px 0px #f3f3f4;
+}
+
+a.nav-link {
+    font-weight: 700;
+}
+
+.form-control {
+    width: auto;
+}
+
+.btn-warning {
+    --bs-btn-bg: #ea4c89 !important;
+    --bs-btn-border-color: #ea4c89 !important;
+    color: white;
+    font-weight: 600;
+}
+
+.stefiRow{
+    padding-top: 4%;
+}
+
+.fteffiii{
+    padding-left: 5px;
+}
+
+.bannerImg{
+    width:100%;
+    border-radius: 5%;
+    padding-top: 5%;
+}
+
+.stefi{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.stefiImg{
+    border-radius: 50%;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
